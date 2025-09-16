@@ -1,4 +1,4 @@
-# Ardi Hub - Blox Fruits Script
+# Ardi Hub - Blox Fruits Script(tahap pengembangan)
 
 A powerful and feature-rich script for Blox Fruits with anti-ban protection.
 
@@ -61,5 +61,6 @@ If you encounter any issues or need help, please:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Disclaimer
+
 
 This script is for educational purposes only. Use at your own risk.
